@@ -1,0 +1,4 @@
+paths:
+  cam:
+    source: rpiCamera
+    rpiCameraBitrate: 10000000
